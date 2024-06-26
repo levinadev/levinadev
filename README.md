@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- Experienced in Python, JavaScript, Django, FastAPI, Flask, and Selenium.
+- I am currently open to job opportunities where I can contribute to innovative and challenging projects.
+- Feel free to contact me on Telegram: @ann_levi.
+- I will be happy to help your team and contribute to the development of your projects!
 <!--
 **levina-anna/levina-anna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
