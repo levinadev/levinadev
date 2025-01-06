@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Anna!
 
-## 🚀 About Me
-- 🌱 Enhancing my skills through advanced training.
-- 💼 Working as a **Backend Developer**
+🎯 **Enhancing my skills through advanced training.**  
+💼 **Working as a Backend Developer.**
 
-## 🔧 My Skills
+---
+
+## 🛠 My Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
@@ -16,6 +17,7 @@
 ![GitLab CI](https://img.shields.io/badge/-GitLab%20CI-FC6D26?logo=gitlab&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat-square)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=flat-square)
 ![PEP8](https://img.shields.io/badge/-PEP8-3776AB?style=flat-square)
 ![OOP](https://img.shields.io/badge/-OOP-3776AB?logo=python&logoColor=white&style=flat-square)
