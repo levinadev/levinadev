@@ -3,7 +3,6 @@
 🎯 **Enhancing my skills through advanced training.**  
 💼 **Working as a Backend Developer.**
 
----
 
 ## 🛠 My Skills
 
@@ -34,6 +33,5 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
 ![Telegram API](https://img.shields.io/badge/-Telegram%20API-2CA5E0?logo=telegram&logoColor=white&style=flat-square)
 
----
 
 🌐 **Portfolio:** [levina-anna.github.io](https://levina-anna.github.io/)
