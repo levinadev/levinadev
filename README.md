@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Anna!
 
+Backend Developer | Python • FastAPI • Django • PostgreSQL • Docker  
+
 ### 🛠 My Skills
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
@@ -30,10 +32,15 @@
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/AnnaLevina">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnnaLevina&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=default&hide_border=true" alt="Anna's GitHub stats" />
+<a href="https://github.com/levinadev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=levinadev&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=default&hide_border=true" alt="Anna's GitHub stats" />
 </a>
 
 ### 🌐 Website
 
 [levinadev.github.io](https://levinadev.github.io)
+
+### 📫 Contacts
+
+- **Email:** anna-levina@hotmail.com 
+- **Telegram:** [@levinadev](https://t.me/levinadev)
