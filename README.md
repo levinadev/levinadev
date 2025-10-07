@@ -28,3 +28,12 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
 ![Telegram API](https://img.shields.io/badge/-Telegram%20API-2CA5E0?logo=telegram&logoColor=white&style=flat-square)
 
+### 📊 GitHub Stats
+
+<a href="https://github.com/AnnaLevina">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnnaLevina&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=default&hide_border=true" alt="Anna's GitHub stats" />
+</a>
+
+### 🌐 Website
+
+[levinadev.github.io](https://levinadev.github.io)
